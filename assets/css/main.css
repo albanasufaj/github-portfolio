@@ -94,6 +94,9 @@ h6 {
 .certificate_icon img{
   max-width: 90px;
 }
+.isotope-container .h-100 {
+  max-height: 200px;
+}
 /* PHP Email Form Messages
 ------------------------------*/
 .php-email-form .error-message {
